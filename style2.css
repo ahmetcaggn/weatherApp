@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
+*{margin: 0;padding: 0; box-sizing: border-box;}
+body{
+    
+    background-image: url(resimler/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+#derece{
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+/* h1{
+    font-family: 'montserrat', sans-serif;
+    color: #fff;
+}
+h2{
+    font-family: 'montserrat', sans-serif;
+    color: #fff;
+}
+
+h3{
+    font-family: 'montserrat', sans-serif;
+    color: #fff;
+}
+
+h4{
+    font-family: 'montserrat', sans-serif;
+    color: #fff;
+}
+#derece{
+    color: rgb(255, 172, 172);
+    text-shadow: 4px 4px 5px black;
+} */
